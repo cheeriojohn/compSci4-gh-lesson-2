@@ -1,6 +1,6 @@
 const title = document.getElementsByTagName('h1')[0];
 const likesAndDislike = document.getElementById("likes-and-dislikes");
-const likes = ['apples','apricots','damsons']
+const likes = ['apples','apricots','damsons','bananas','dates']
 
 const printFruit = () => {
     console.log("I don't like pears");
